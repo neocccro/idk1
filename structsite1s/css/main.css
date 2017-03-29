@@ -1,0 +1,56 @@
+/*
+ * Dit is de custom style sheet van jouw website
+ *
+ */
+
+body {
+
+	font-family: "Courier New";
+	background-color: black;
+	color: lawngreen;
+}
+
+a {
+
+	text-decoration: none;
+}
+
+.aligncenter, div.aligncenter {
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignleft {
+
+	float: left;
+}
+
+.alignright {
+
+	float: right;
+}
+
+.wrap {
+
+	clear: both;
+	margin:0 auto;
+	width:860px;
+}
+
+hr {
+	border-color: deeppink;
+}
+
+footer {
+
+	color: yellow;
+}
+
+
+/*------------------ COEN ----------------*/
+
+.logo
+{
+	width: 100px;
+}
